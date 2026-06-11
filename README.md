@@ -8,5 +8,5 @@ En este curso aprenderemos a programar con la IA dejando a un lado el lenguaje d
 
 Realizamos una aplicación web, la subimos a GitHub y utilizamos Supabase como Base de Datos.
 
-[Prompts](Sesión 1/prompts.md)
+[Prompts](Sesion_1/prompts.md)
 

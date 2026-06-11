@@ -1,5 +1,9 @@
+# Sesión 1
 
-### 📚Prompt Me han dicho que puedo utilizar github.com como mi servidor web
+Vamos a crear una aplicación de recogida de datos meteorológicos ubicada en un servidor web no local.
+
+
+### 📚Prompt para utilizar github.com como mi servidor web
 Quiero crear una página en github.com para alojar una página web html con javascript ¿Cómo lo hago? Ya tengo cuenta en github.com ahórrate ese paso
 [Respuesta](pages_github.md)
 
@@ -51,5 +55,11 @@ Solucionado. Ahora me gustaría habilitar control de acceso solo usuarios autori
 Pero cualquiera puede autenticarse. ¿Puede haber un paso previo para que un usuario administrador valide a ese usuario?
 [Respuesta](Administrando_la_seguridad.md)
 
-### 📚Un posible resultado:
+### Un posible resultado:
 [Estacion_meteorológica](https://peredafp.github.io/estacion_meteorologica/)
+
+### Actividades:
+  - Utiliza Firebase como repositorio. Recuerda que es la IA la que debe darte todas las respuestas de código.
+  - Habrás observado que el código html es "infinito". Pregunta por CSS y haz que el código html, el código JavaScript y el CSS se encuentren en ficheros separados.
+  - Personaliza, mediante CSS, tu aplicación.
+  - Añade un campo PROVINCIA que muestre un desplegable con las provincias que creas oportuno. Estos datos deben encontrarse en una tabla aparte, similar a la tabla **situaciones**

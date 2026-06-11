@@ -65,3 +65,4 @@ Si ves `CHANNEL_ERROR` o no ves mensajes, significa que el cliente no se conecta
 *   **Múltiples suscripciones**: Otro motivo de error es suscribirse al mismo canal varias veces accidentalmente, por ejemplo, si el componente se monta dos veces en modo estricto. Si ves logs duplicados al recargar, es algo a tener en cuenta.
 
 Si después de seguir estos tres pasos el problema continúa, por favor, comparte el mensaje exacto que aparece en la consola (el error de estado de la suscripción) y lo revisamos juntos.
+[Volver a la Sesión](prompts.md)

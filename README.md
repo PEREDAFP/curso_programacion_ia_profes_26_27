@@ -1,2 +1,10 @@
-# curso_programacion_ia_profes_26_27
-Curso para profesores CTIF Sur, curso 2026-27, en el que se enseña a programar sin tirar ni una línea de código
+# Curso de programación de IA para profesores
+
+**Objetivo:** realizar aplicaciones complejas sin tirar una sola línea de código
+
+En este curso aprenderemos a programar con la IA dejando a un lado el lenguaje de programación que se vaya a utilizar y centrándonos en el resultado.
+
+## Sesión 1
+
+Realizamos una aplicación web, la subimos a GitHub y utilizamos Supabase como Base de Datos.
+
